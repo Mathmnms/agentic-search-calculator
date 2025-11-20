@@ -53,7 +53,7 @@ Cet agent utilise le pattern **ReAct** (Reasoning + Acting) pour :
 
 1. Cloner le repository :
 ```bash
-git clone https://github.com/VOTRE_USERNAME/agentic-search-calculator.git
+git clone https://github.com/Mathmnms/agentic-search-calculator.git
 cd agentic-search-calculator
 ```
 
@@ -132,7 +132,7 @@ python3 main.py
 
 ## 👨‍💻 Auteur
 
-**Votre Nom** - Projet final MSc Albert - Agentic Systems
+Mathis Meimoun - Projet final MSc Albert - Agentic Systems
 
 ## 📄 Licence
 
